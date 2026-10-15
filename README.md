@@ -1,0 +1,2 @@
+# premium-jig-build-001-workshop-jig-building-repeat
+Tired of re-measuring and re-building the same jig every time you start a new project? Stop guessing and start cutting with precision using the Workshop Jig Building &amp; Repeat Cut Craft Hub.  This Notion template eliminates the frustration of lost jig specifications and forgotten measurements. It provides a centralized system to document every jig's
